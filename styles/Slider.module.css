@@ -1,0 +1,11 @@
+.slider{
+    width: 100vw;
+    height: 40vh;
+}
+
+@media only screen and (max-width: 450px) {
+    .slider{
+        width: 100vw;
+        height: 20vh;
+    }
+  }

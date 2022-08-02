@@ -1,0 +1,17 @@
+.main{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 10px 0px 10px;
+}
+
+.ListOfUl{
+    display: flex;
+    list-style-type: none;
+    margin: 1px 0px 0px 0px;
+}
+
+.ListOfUl li{
+    margin-right: 10px;
+    cursor: pointer;
+}
